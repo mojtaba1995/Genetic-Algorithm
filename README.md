@@ -3,8 +3,7 @@
 This is a simple genetic algorithm code.
 
 ---------------------------------------------------------------------------------
-/////////////////////////////////////////////////////////////////////////////////
-Using defines that comes below you can control genetic algorithm 
+Using defines that comes below you can control genetic algorithm .
 
 define genenumber 2
 define choromozomenumber 22
@@ -14,8 +13,7 @@ define tops 2
 define mutationnumber 2
 define mutationrange 10
 ---------------------------------------------------------------------------------
-/////////////////////////////////////////////////////////////////////////////////
-func is your target function 
+func is your target function.
 
 float func(choromozome input) {
 	float result;
@@ -25,4 +23,4 @@ float func(choromozome input) {
   	return result;
 }
 ---------------------------------------------------------------------------------
-/////////////////////////////////////////////////////////////////////////////////
+
