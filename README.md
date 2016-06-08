@@ -20,6 +20,6 @@ float func(choromozome input) {
 	int i;
 	result = 0;
 	result = input.getgene(0).getvalue() + 3 * input.getgene(1).getvalue();
-  return result;
+  	return result;
 }
 ---------------------------------------------------------------------------------
