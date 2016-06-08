@@ -37,4 +37,26 @@ float func(choromozome input) {
 }
 
 ---------------------------------------------------------------------------------
+By changing these lines you can change subject functios
+if (chorome[i].getgene(0).getvalue() > 9) {
 
+				z[i][0] = z[i][0] - 100000;
+				
+			}
+			
+			if (2 * chorome[i].getgene(0).getvalue() + chorome[i].getgene(1).getvalue() > 22) {
+				z[i][0] = z[i][0] - 100000;
+			}
+			
+			if (chorome[i].getgene(0).getvalue() + 4 * chorome[i].getgene(1).getvalue() > 32) {
+				z[i][0] = z[i][0] - 100000;
+			}
+			
+			if (chorome[i].getgene(0).getvalue() <= 0) {
+				z[i][0] = z[i][0] - 100000;
+			}
+			
+			if (chorome[i].getgene(1).getvalue() <= 0) {
+				z[i][0] = z[i][0] - 100000;
+			}
+			
