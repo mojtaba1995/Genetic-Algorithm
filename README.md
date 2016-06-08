@@ -23,11 +23,18 @@ define mutationrange 10
 func is your target function.
 
 float func(choromozome input) {
+
 	float result;
+	
 	int i;
+	
 	result = 0;
+	
 	result = input.getgene(0).getvalue() + 3 * input.getgene(1).getvalue();
+	
   	return result;
+  	
 }
+
 ---------------------------------------------------------------------------------
 
