@@ -51,7 +51,15 @@ Fitness function:
 
 ---------------------------------------------------------------------------------
 
-Using defines that comes below you can control genetic algorithm .
+Using defines that comes below you can control genetic algorithm.
+* The variable genenumber is the number of inputs for your function which in this question is equal to two. 
+* The variable choromozomenumber is the number of chromosomes in each generation. 
+* The variable generationnumber is the number of total generations. 
+* The variable percent and tops are related to tournament section in GA. 
+* The variable mutationnumber is the number of total mutations.
+* The variable mutationrange is the range of mutations.
+<br>
+
 <pre><code>
 define genenumber 2
 
@@ -69,6 +77,7 @@ define mutationrange 10
 </code></pre>
 ---------------------------------------------------------------------------------
 In the code below, the "func" is the fitness function that was mentioned earlier.
+<b>input.getgene(0).getvalue()</b> means the first input. It is easy to change this function based on the needs.
 
 <pre><code>
 float func(choromozome input) {
@@ -86,7 +95,8 @@ float func(choromozome input) {
 }
 </code></pre>
 ---------------------------------------------------------------------------------
-By changing these lines you can change constraints.
+By changing these lines it is possible change constraints. The 100000 is the penalty value and can be changed from problem to problem.
+
 <pre><code>
 if (<b>chorome[i].getgene(0).getvalue() > 9</b>) {
 	z[i][0] = z[i][0] - 100000;
