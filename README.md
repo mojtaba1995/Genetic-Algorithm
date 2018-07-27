@@ -20,18 +20,18 @@ Fitness function:
 <br>
 <br>
 <div align="left">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="240">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="180">
 </div>
 <br>
 <b>Constraints:</b>
 <br>
 <br>
 <div align="left">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="250">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="180">
 </div>
 <br>
 <div align="left">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C2.png" width="250">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C2.png" width="180">
 </div>
 <br>
 <div align="left">
