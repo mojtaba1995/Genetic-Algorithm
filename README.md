@@ -1,4 +1,4 @@
-# Genetic-Algorithm
+# Genetic Algorithm
 
 This code is a GA-based optimization algorithm to optimize a single objective function with integer inputs while it can handle several constraints.
 The developed code is based on a project for system engineering course.	This GA algorithm uses tournament selection and mutation to optimize the function.
