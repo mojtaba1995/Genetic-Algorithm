@@ -5,10 +5,10 @@ The developed code is based on a project for system engineering course.
 
 ## Getting Started
 
-To compile the program you should run the [Source.cpp](Genetic-Algorithm/src/Source.cpp) code and it is possible to modify the code using the following guidelines.
+To compile the program you should run the [Source.cpp](src/Source.cpp) code and it is possible to modify the code using the following guidelines.
 
 
-### Description 
+### Descriptions 
 
 ---------------------------------------------------------------------------------
 
