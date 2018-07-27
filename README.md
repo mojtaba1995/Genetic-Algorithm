@@ -16,20 +16,20 @@ In order to simplify the usage of this code, a mathematical question was propose
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="240">
 </div>
-
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="250">
 </div>
-
+<div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C2.png" width="250">
 </div>
-
+<div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C3.png" width="100">
 </div>
-
+<div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C4.png" width="80">
 </div>
-
+<div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C5.png" width="80">
 </div>
 <br>
