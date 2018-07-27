@@ -14,7 +14,7 @@ In order to simplify the usage of this code, a mathematical question was propose
 
 <br>
 <div align="center">
-<img src="https://images-na.ssl-images-amazon.com/images/I/61XA4QT5DQL._SL1000_.jpg" width="350">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="350">
 </div>
 <br>
 
