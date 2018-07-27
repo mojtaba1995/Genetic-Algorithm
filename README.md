@@ -17,11 +17,13 @@ In order to simplify the usage of this code, a mathematical question was propose
 <b>
 Fitness function:
 </b>
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="240">
 </div>
 <br>
-**Constraints:**
+<b>Constraints:</b>
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="250">
 </div>
