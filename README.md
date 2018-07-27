@@ -35,15 +35,15 @@ Fitness function:
 </div>
 <br>
 <div align="left">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C3.png" width="100">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C3.png" width="80">
 </div>
 <br>
 <div align="left">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C4.png" width="80">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C4.png" width="60">
 </div>
 <br>
 <div align="left">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C5.png" width="80">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C5.png" width="60">
 </div>
 <br>
 
