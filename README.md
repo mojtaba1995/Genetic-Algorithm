@@ -52,7 +52,7 @@ Fitness function:
 ---------------------------------------------------------------------------------
 
 Using defines that comes below you can control genetic algorithm .
-```
+<pre><code>
 define genenumber 2
 
 define choromozomenumber 22
@@ -66,11 +66,11 @@ define tops 2
 define mutationnumber 2
 
 define mutationrange 10
-```
+</code></pre>
 ---------------------------------------------------------------------------------
 In the code below, the "func" is the fitness function that was mentioned earlier.
 
-```
+<pre><code>
 float func(choromozome input) {
 
 	float result;
@@ -84,7 +84,7 @@ float func(choromozome input) {
   	return result;
   	
 }
-```
+</code></pre>
 ---------------------------------------------------------------------------------
 By changing these lines you can change constraints.
 <pre><code>
