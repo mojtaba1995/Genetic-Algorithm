@@ -27,10 +27,10 @@ In order to simplify the usage of this code, a mathematical question was propose
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C3.png" width="120">
 </div>
 <br>
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C4.png" width="100">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C4.png" width="80">
 </div>
 <br>
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C5.png" width="100">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C5.png" width="80">
 </div>
 <br>
 
