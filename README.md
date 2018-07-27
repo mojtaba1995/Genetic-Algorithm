@@ -25,6 +25,7 @@ Fitness function:
 <br>
 <b>Constraints:</b>
 <br>
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="250">
 </div>
