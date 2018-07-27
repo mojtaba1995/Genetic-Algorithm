@@ -1,25 +1,19 @@
 # Genetic-Algorithm
 
-This is a simple genetic algorithm code.
-
-	
-
+This code is a GA-based optimization algorithm to optimize a single objective function with integer inputs while it can handle several constraints.
+The developed code is based on a project for system engineering course.	
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To compile the program you should run the [Source.cpp](Genetic-Algorithm/src/Source.cpp) code and it is possible to modify the code using the following guidelines.
 
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
+### Description 
 
 ---------------------------------------------------------------------------------
-```
-Using defines that comes below you can control genetic algorithm .
 
+Using defines that comes below you can control genetic algorithm .
+```
 define genenumber 2
 
 define choromozomenumber 22
@@ -52,7 +46,7 @@ float func(choromozome input) {
 }
 ```
 ---------------------------------------------------------------------------------
-By changing these lines you can change subject functios
+By changing these lines you can change constraints.
 ```
 if (chorome[i].getgene(0).getvalue() > 9) {
 	z[i][0] = z[i][0] - 100000;
