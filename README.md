@@ -29,15 +29,19 @@ Fitness function:
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="250">
 </div>
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C2.png" width="250">
 </div>
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C3.png" width="100">
 </div>
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C4.png" width="80">
 </div>
+<br>
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C5.png" width="80">
 </div>
@@ -64,7 +68,8 @@ define mutationnumber 2
 define mutationrange 10
 ```
 ---------------------------------------------------------------------------------
-func is your target function.
+In the code below, the "func" is the fitness function that was mentioned earlier.
+
 ```
 float func(choromozome input) {
 
@@ -74,7 +79,7 @@ float func(choromozome input) {
 	
 	result = 0;
 	
-	result = **input.getgene(0).getvalue() + 3 * input.getgene(1).getvalue();**
+	result = <b>input.getgene(0).getvalue() + 3 * input.getgene(1).getvalue();</b>
 	
   	return result;
   	
@@ -83,23 +88,23 @@ float func(choromozome input) {
 ---------------------------------------------------------------------------------
 By changing these lines you can change constraints.
 ```
-if (chorome[i].getgene(0).getvalue() > 9) {
+if (<b>chorome[i].getgene(0).getvalue() > 9</b>) {
 	z[i][0] = z[i][0] - 100000;
 }
 			
-if (2 * chorome[i].getgene(0).getvalue() + chorome[i].getgene(1).getvalue() > 22) {
+if (<b>2 * chorome[i].getgene(0).getvalue() + chorome[i].getgene(1).getvalue() > 22</b>) {
 	z[i][0] = z[i][0] - 100000;
 }
 			
-if (chorome[i].getgene(0).getvalue() + 4 * chorome[i].getgene(1).getvalue() > 32) {
+if (<b>chorome[i].getgene(0).getvalue() + 4 * chorome[i].getgene(1).getvalue() > 32</b>) {
 	z[i][0] = z[i][0] - 100000;
 }
 			
-if (chorome[i].getgene(0).getvalue() <= 0) {
+if (<b>chorome[i].getgene(0).getvalue() <= 0</b>) {
 	z[i][0] = z[i][0] - 100000;
 }
 			
-if (chorome[i].getgene(1).getvalue() <= 0) {
+if (<b>chorome[i].getgene(1).getvalue() <= 0</b>) {
 	z[i][0] = z[i][0] - 100000;
 }
 ```		
