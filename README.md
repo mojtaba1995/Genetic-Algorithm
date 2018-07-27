@@ -87,7 +87,7 @@ float func(choromozome input) {
 ```
 ---------------------------------------------------------------------------------
 By changing these lines you can change constraints.
-```
+<pre><code>
 if (<b>chorome[i].getgene(0).getvalue() > 9</b>) {
 	z[i][0] = z[i][0] - 100000;
 }
@@ -107,7 +107,7 @@ if (<b>chorome[i].getgene(0).getvalue() <= 0</b>) {
 if (<b>chorome[i].getgene(1).getvalue() <= 0</b>) {
 	z[i][0] = z[i][0] - 100000;
 }
-```		
+</code></pre>	
 
 
 ## License
