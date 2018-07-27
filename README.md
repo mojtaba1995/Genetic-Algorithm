@@ -10,13 +10,16 @@ To compile the program you should run the [Source.cpp](src/Source.cpp) code and 
 
 ### Descriptions 
 
-In order to simplify the usage of this code, a mathematical question was proposed. 
+In order to simplify the usage of this code, a mathematical question was proposed. In this question "Z" is fitness function and X_0 and X_1 are the input variables.
+
 
 <br>
+**Fitness function:**
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="240">
 </div>
 <br>
+**Constraints:**
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="250">
 </div>
@@ -65,7 +68,7 @@ float func(choromozome input) {
 	
 	result = 0;
 	
-	result = input.getgene(0).getvalue() + 3 * input.getgene(1).getvalue();
+	result = **input.getgene(0).getvalue() + 3 * input.getgene(1).getvalue();**
 	
   	return result;
   	
