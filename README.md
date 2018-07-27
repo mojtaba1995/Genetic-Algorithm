@@ -14,7 +14,7 @@ In order to simplify the usage of this code, a mathematical question was propose
 
 
 <br>
-**Fitness function:**
+__Fitness function:__
 <div align="left">
 <img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="240">
 </div>
