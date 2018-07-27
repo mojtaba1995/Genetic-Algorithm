@@ -13,10 +13,27 @@ To compile the program you should run the [Source.cpp](src/Source.cpp) code and 
 In order to simplify the usage of this code, a mathematical question was proposed. 
 
 <br>
-<div align="center">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="350">
+<div align="left">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="250">
 </div>
 <br>
+<div align="left">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C1.png" width="250">
+</div>
+<br>
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C2.png" width="250">
+</div>
+<br>
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C3.png" width="250">
+</div>
+<br>
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C4.png" width="250">
+</div>
+<br>
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/C5.png" width="250">
+</div>
+<br>
+
 
 
 ---------------------------------------------------------------------------------
