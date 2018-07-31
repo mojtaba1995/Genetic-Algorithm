@@ -20,7 +20,7 @@ Fitness function:
 <br>
 <br>
 <div align="left">
-<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="180">
+<img src="https://github.com/mojtaba1995/Genetic-Algorithm/blob/master/images/fitness.png" width="160">
 </div>
 <br>
 <b>Constraints:</b>
